@@ -3,3 +3,4 @@ click.googleanalytics.com
 google-analytics.com
 ssl.google-analytics.com
 ads.youtube.com
+||analytics.google.com^
