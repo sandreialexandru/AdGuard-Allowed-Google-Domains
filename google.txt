@@ -1,1 +1,4 @@
-
+analytics.google.com
+click.googleanalytics.com
+google-analytics.com
+ssl.google-analytics.com
